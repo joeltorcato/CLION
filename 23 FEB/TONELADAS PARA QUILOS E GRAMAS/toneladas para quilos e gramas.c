@@ -9,5 +9,4 @@ int main() {
     scanf("%f", &n_toneladas);
     printf("number of kilos = %f = %e\n", n_toneladas * quilos, n_toneladas * quilos);
     printf("number of grams = %f = %E\n", n_toneladas * gramas, n_toneladas * gramas);
-
 }
