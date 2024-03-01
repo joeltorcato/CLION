@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main () {
-    int seg, horas, minutos, segundos;
+    long int seg, horas, minutos, segundos;
 
 printf("type the number of seconds: ");
 scanf("%d", &seg);
