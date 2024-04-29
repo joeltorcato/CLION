@@ -9,7 +9,7 @@ int main () {
             if (i % 2 == 1)
                 continue;
             else
-            printf("%2d\n", 2 * i);
+            printf("%2d\n", i);
         printf("END OF THE LOOP\n");
     }
 }
